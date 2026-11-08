@@ -1,0 +1,5 @@
+retrieval:
+  strategy: adaptive-sparse
+  top_k: 64
+  sparse_budget: 4096
+  rerank: true
